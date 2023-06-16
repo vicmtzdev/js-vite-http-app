@@ -44,7 +44,7 @@ h1 {
 }
 
 .logocustom {
-  height: 25em;
+  height: 15em;
   padding: 1.5em;
   will-change: filter;
   transition: filter 300ms;
@@ -73,7 +73,7 @@ button {
   transition: border-color 0.25s;
 }
 button:hover {
-  border-color: #646cff;
+  border-color: #f7301eaa;
 }
 button:focus,
 button:focus-visible {

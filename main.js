@@ -7,7 +7,7 @@ import { StrangerThingsApp } from './src/strangerthings/strangerthings-app'
 document.querySelector('#app').innerHTML = `
   <div>
     
-    <img src="./src/assets/stlogo.png" class="logocustom vanilla"/>
+    <img src="./src/assets/st.png" class="logocustom vanilla"/>
     <div class="card">
 
     </div>
